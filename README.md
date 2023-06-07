@@ -12,6 +12,7 @@ allows us to read and send packets. Before you can use Scapy, you’ll need to
 install it with pip3. Use the following commands to get both pip3 and Scapy:
 
 kali@kali:~$ sudo apt-get install python3-pip
+
 kali@kali:~$ pip3 install --pre scapy[basic]
 
 Once you’ve installed Scapy, you can import the sniff library, which al
